@@ -24,7 +24,8 @@ Velg **ett** av produktene under:
 - Liten oppbevaringsboks
 - Finne eget problem som kan fikses med 3D-modellering og print. 
 
-* OBS. Med tanke på antallet som skal printes i løpet av dette undervisningsopplegget må det stilles krav til maksimal størrelse. Printen må kunne printes med ordinær hastighet på maksimalt 2 timer. 
+OBS.
+* Med tanke på antallet som skal printes i løpet av dette undervisningsopplegget må det stilles krav til maksimal størrelse. Printen må kunne printes med ordinær hastighet på maksimalt 2 timer. 
 * Vi må fylle hvert "brett" med modeller, vent derfor på klarsignal før print. 
 
 
@@ -71,7 +72,8 @@ Sjekk følgende:
 - infill (15–20 %)
 - støtte hvis nødvendig
 
-* Hvis du ikke får printet modellen kan du generere ("rendre") et 3D-bilde av objektet i Fusion 360. 
+OBS
+- Hvis du ikke får printet modellen kan du generere ("rendre") et 3D-bilde av objektet i Fusion 360. 
 
 ---
 
