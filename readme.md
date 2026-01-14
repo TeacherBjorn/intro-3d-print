@@ -22,6 +22,7 @@ Velg **ett** av produktene under:
 - Nøkkelring eller navneskilt
 - Bokstøtte
 - Liten oppbevaringsboks
+- Finne eget problem som kan fikses med 3D-modellering og print. 
 
 ---
 
@@ -59,8 +60,9 @@ Tips:
 - Sjekk:
   - riktig størrelse
   - riktig plassering på byggeplaten
+  - sjekk og kontroller orientering av modellen i forhold til printerhode
 
-Innstillinger:
+Sjekk følgende: 
 - layer height
 - infill (15–20 %)
 - støtte hvis nødvendig
