@@ -13,6 +13,8 @@ I denne oppgaven skal du:
 - printe et ferdig produkt
 - forklare egne valg underveis
 
+Oppgaven kan også løses ved hjelp av andre programmer (eks. Blender), men vi lærere benytter Fusion. 
+
 ---
 
 ## Del 1: Velg produkt
@@ -93,10 +95,11 @@ OBS
 
 ## Levering
 Du leverer:
-- ferdig 3D-printet produkt
+- bilde av ferdig 3D-printet produkt (evt. render fra Fusion 360)
 - STL-fil
-- kort refleksjon (5–10 setninger):
+- kort refleksjon (150-250 ord):
   - Hva fungerte bra?
+  - Hva fungerte dårlig? 
   - Hva ville du gjort annerledes neste gang?
 
 ---
